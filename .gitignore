@@ -1,0 +1,5 @@
+.vscode/
+
+# executables
+dfs.exe
+dijkstra.exe

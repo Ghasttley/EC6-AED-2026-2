@@ -34,6 +34,10 @@
 |   ├── dos_paradas_obligatorias.cpp
 |   ├── single_source_shortest_path.cpp
 |   └── red_completa_sol_cuadratica.cpp
+├── exercises/ # unorganized exercises
+|   ├── A.cpp
+|   ├── B.cpp
+|   └── C.cpp
 ├── refs/ # mostly for references
 |   ├── 14_DFS-BFS.pdf
 |   └── 15_Dijkstra-Kruskal.pdf

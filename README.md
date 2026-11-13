@@ -20,23 +20,26 @@
 ```
 # Contenido actualizado el 13/11/2026
 ├── DFS/
-|   ├── Jarras.cpp
-|   ├── Terreno.cpp
-|   ├── AmigosComunes.cpp # to be fixed
-|   ├── AgendaContactos.cpp # to be fixed
-|   ├── CablesServidores.cpp
-|   ├── SeguidoresMutuos.cpp
-|   └── PuentesKonigsberg.cpp
+|   ├── global.cpp
+|   ├── tree_check.cpp
+|   ├── timestamps.cpp
+|   ├── minimum_path.cpp
+|   ├── pseudoglobal.cpp
+|   ├── per_reference.cpp
+|   ├── cycle_detection.cpp
+|   ├── edge_classification.cpp
+|   └── lexicographically_minimum_cycle.cpp
 ├── Dijkstra/
-|   ├── implicit.cpp # to be fixed
-|   ├── laberinto.cpp
-|   ├── rivalteams.cpp # to be fixed
-|   └── multisource.cpp
-├── refs/ # mostly for visual references
-|   ├── bfs03.cpp
-|   └── Teoria14-DFS-BFS.pdf
-├── .gitignore # excluye la carpeta .vscode con la configuración y los ejercicios no terminados
+|   ├── punto_de_encuentro.cpp
+|   ├── dos_paradas_obligatorias.cpp
+|   ├── single_source_shortest_path.cpp
+|   └── red_completa_sol_cuadratica.cpp
+├── refs/ # mostly for references
+|   ├── 14_DFS-BFS.pdf
+|   └── 15_Dijkstra-Kruskal.pdf
+├── .gitignore # excluye la carpeta .vscode con la configuración y demás...
 ├── dfs.cpp
+├── dijkstra.cpp
 └── README.md
 ```
 
